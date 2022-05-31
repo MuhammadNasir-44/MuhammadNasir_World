@@ -8,16 +8,16 @@
 ### <div align="center">I'm Muhammad Nasir, a full-time data analyst👨‍💻 working since 2017 🚀</div>  
   
 
-- 🔭 I’m currently working on Data Analysis Projec
+- 🔭 I’m currently working on Data Analysis Project
   
 
-- 🌱 I’m currently learning Google Cloud with APIs
+- 🌱 I’m currently learning Google Cloud with APIs for Big Query Data
   
 
 - ❓ Ask me about Data Analytics
   
 
-- ⚡ Fun fact: Coding everyday makes me happy :)
+- ⚡ Fun fact: Coding everyday makes me happy :) - Data Analysis tools: Python , R, Power BI, Excel, SQL, Knime
   
 
 <br/>  
