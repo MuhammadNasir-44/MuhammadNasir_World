@@ -5,19 +5,19 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Muhammad Nasir, a full-time data analyst and data scientist👨‍💻 working since 2017 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on Data Analysis Projec
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Google Cloud with APIs
   
 
-- ❓ Ask me about anszxsxything related to MERN stack and related technologies  
+- ❓ Ask me about Data Analytics
   
 
-- ⚡ Fun fact: I use tabs sasadsadover spaces  
+- ⚡ Fun fact: Coding everyday makes me happy :)
   
 
 <br/>  
