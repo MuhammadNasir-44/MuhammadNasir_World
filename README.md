@@ -4,7 +4,7 @@
 </div>  
   
 
-### *<div align="center">Warm Welcome , Herzlisch Willkommen, Bonjour, Salaam
+### <div align="center">Warm Welcome , Herzlisch Willkommen, Bonjour, Salaam
 This is Muhammad Nasir, a full-time data driven analyst 👨‍💻 working since 2019 🚀</div>*  
   
 
@@ -36,14 +36,10 @@ This is Muhammad Nasir, a full-time data driven analyst 👨‍💻 working sinc
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
