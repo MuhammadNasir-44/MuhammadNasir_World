@@ -1,5 +1,5 @@
 # MuhammadNasir_World
-I am a Data Analyst who loves coding for Data Science - 
+I am a Data Analyst who loves coding for Data Science and Analytics - 
 
 💫About Me :
 
