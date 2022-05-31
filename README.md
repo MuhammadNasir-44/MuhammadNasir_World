@@ -1,6 +1,6 @@
 # MuhammadNasir_World
 <div align="center">
-[<img src="https://giphy.com/gifs/zeetv-drama-dramafever-t98sHJAJ69MCoMoXAr" style="width: 100%" />](https://media.giphy.com/media/t98sHJAJ69MCoMoXAr/giphy.gif)
+<img src="https://media.giphy.com/media/t98sHJAJ69MCoMoXAr/giphy.gif" style="width: 100%" />
 </div>  
 
   
