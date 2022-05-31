@@ -1,7 +1,6 @@
 # MuhammadNasir_World
 <div align="center">
-<img src="https://media.giphy.com/media/t98sHJAJ69MCoMoXAr/giphy.gif" style="width: 100%" /> 
-
+<img src="https://giphy.com/gifs/tobey-maguire-oW4csEbiMzVjq.gif" style="width: 100%" /> 
 </div>  
 
   
