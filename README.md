@@ -1,7 +1,6 @@
 # MuhammadNasir_World
 <div align="center">
-<iframe src="https://giphy.com/embed/t98sHJAJ69MCoMoXAr" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zeetv-drama-dramafever-t98sHJAJ69MCoMoXAr">
-  
+<iframe src="https://giphy.com/embed/t98sHJAJ69MCoMoXAr" style="width: 100%" />
 </div>  
 
   
