@@ -8,15 +8,9 @@
 This is Muhammad Nasir, a full-time data driven analyst 👨‍💻 working since 2019 🚀</div>*  
   
 
-- 🔭 I’m currently working on Data Analysis Project  
-  
-
-- 🌱 I’m currently learning Google Cloud and Big Query  
-  
-
+- 🔭 Working on different data science projects with different tools which will uploaded to repositories
+- 🌱 My target is to grow with the services to public and to participate in collaborative projects her on github or other platforms to innovate digital technologies
 - ❓ Ask me anything about Data Analytic and related technologies   
-  
-
 - ⚡ Fun fact: Coding everday makes me happy 🙃  
   
 
