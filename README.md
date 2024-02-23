@@ -5,7 +5,7 @@
   
 
 ### <div align="center">Warm Welcome , Herzlisch Willkommen, Bonjour, Salaam
-This is Muhammad Nasir, a full-time data driven analyst 👨‍💻 working since 2019 🚀</div>*  
+This is Muhammad Nasiruddin, a full-time data driven analyst 👨‍💻 working since 2019 🚀</div>*  
   
 
 - 🔭 Working on different data science projects with different tools which will uploaded to repositories
