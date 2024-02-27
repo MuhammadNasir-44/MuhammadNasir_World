@@ -9,9 +9,9 @@ This is Muhammad Nasiruddin, a full-time data driven analyst 👨‍💻 working
   
 
 - 🔭 Working on different data science projects with different tools which will uploaded to repositories
-- 🌱 My target is to grow with the services to public and to participate in collaborative projects on github/other platforms to innovate digital technologies
-- ❓ Ask me anything about Data Analytic and related technologies   
-- ⚡ Fun fact: Coding everday makes me happy 🙃  
+- 🌱 My target is to grow with the services to public and to participate in collaborative projects on github,leveraging digital technology to drive innovation and solve complex challenges.
+- ❓ Dedicated to pushing the boundaries of what's possible through code and collaboration and related technologies   
+- ⚡ Fun fact: Coding makes me happy 🙃  
   
 
 <br/>  
