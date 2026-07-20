@@ -19,7 +19,7 @@ task in steps, check their own output, and handle real-world messiness.
   invoice/receipt data, using Gemini + Python
 
 **Stack:** 
-· Python, R
+**· Python, R
 · SQL
 · LLM APIs (Gemini)
 · SQL
@@ -27,7 +27,7 @@ task in steps, check their own output, and handle real-world messiness.
 · Azure/Fabric
 · Google Cloud
 · Dynamics 365
-· ETL with CI/CD
+· ETL with CI/CD**
 
 
 📍 London · [Let's connect](https://github.com/MuhammadNasir-44)
