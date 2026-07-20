@@ -18,7 +18,17 @@ task in steps, check their own output, and handle real-world messiness.
   a multi-step AI agent that classifies, extracts, self-checks, and logs
   invoice/receipt data, using Gemini + Python
 
-**Stack:** Python · Pandas · LLM APIs (Gemini) · SQL · Excel/BI tooling
+**Stack:** 
+· Python, R
+· SQL
+· LLM APIs (Gemini)
+· SQL
+· BI: Power BI, Tableau, Looker, Excel
+· Azure/Fabric
+· Google Cloud
+· Dynamics 365
+· ETL with CI/CD
+
 
 📍 London · [Let's connect](https://github.com/MuhammadNasir-44)
   
