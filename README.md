@@ -19,8 +19,8 @@ task in steps, check their own output, and handle real-world messiness.
   invoice/receipt data, using Gemini + Python
 
 **Stack:** 
-**· Python, R
-· SQL
+**· Python, R **
+**· SQL**
 · LLM APIs (Gemini)
 · SQL
 · BI: Power BI, Tableau, Looker, Excel
