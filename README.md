@@ -17,17 +17,16 @@ task in steps, check their own output, and handle real-world messiness.
 - 🤖 [ai-invoice-agent](https://github.com/MuhammadNasir-44/ai-invoice-agent) —
   a multi-step AI agent that classifies, extracts, self-checks, and logs
   invoice/receipt data, using Gemini + Python
-
-**Stack:** 
-**· Python, R **
-**· SQL**
-· LLM APIs (Gemini)
-· SQL
-· BI: Power BI, Tableau, Looker, Excel
-· Azure/Fabric
-· Google Cloud
-· Dynamics 365
-· ETL with CI/CD**
+  
+**Stack:**
+- Python, R
+- SQL
+- LLM APIs (Gemini)
+- BI: Power BI, Tableau, Looker, Excel
+- Azure / Microsoft Fabric
+- Google Cloud
+- Dynamics 365
+- ETL with CI/CD
 
 
 📍 London · [Let's connect](https://github.com/MuhammadNasir-44)
