@@ -7,7 +7,7 @@
 ### <div align="center">Warm Welcome , Herzlisch Willkommen, Bonjour, Salaam
 ### Hi, I'm Muhammad Nasir 👋
 
-Senior Data Science & Business Intelligence Analyst, Also focusing on
+Senior Data Science & Business Intelligence Analyst, Also focusing and working on
 **AI agent development and workflow automation** .
 
 I build tools that don't just call an API once — they reason through a
