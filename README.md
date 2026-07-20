@@ -5,13 +5,22 @@
   
 
 ### <div align="center">Warm Welcome , Herzlisch Willkommen, Bonjour, Salaam
-This is Muhammad Nasiruddin, a full-time data driven analyst 👨‍💻 working since 2019 🚀</div>*  
-  
+### Hi, I'm Muhammad 👋
 
-- 🔭 Working on different data science projects with different tools which will uploaded to repositories
-- 🌱 My target is to grow with the services to public and to participate in collaborative projects on github,leveraging digital technology to drive innovation and solve complex challenges.
-- ❓ Dedicated to pushing the boundaries of what's possible through code and collaboration and related technologies   
-- ⚡ Fun fact: Coding makes me happy 🙃  
+Senior Data Science & Business Intelligence Analyst, currently focused on
+**AI agent development and workflow automation** with Python.
+
+I build tools that don't just call an API once — they reason through a
+task in steps, check their own output, and handle real-world messiness.
+
+**Recent work:**
+- 🤖 [ai-invoice-agent](https://github.com/MuhammadNasir-44/ai-invoice-agent) —
+  a multi-step AI agent that classifies, extracts, self-checks, and logs
+  invoice/receipt data, using Gemini + Python
+
+**Stack:** Python · Pandas · LLM APIs (Gemini) · SQL · Excel/BI tooling
+
+📍 London · [Let's connect](https://github.com/MuhammadNasir-44)
   
 
 <br/>  
