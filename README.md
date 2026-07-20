@@ -5,10 +5,10 @@
   
 
 ### <div align="center">Warm Welcome , Herzlisch Willkommen, Bonjour, Salaam
-### Hi, I'm Muhammad 👋
+### Hi, I'm Muhammad Nasir 👋
 
-Senior Data Science & Business Intelligence Analyst, currently focused on
-**AI agent development and workflow automation** with Python.
+Senior Data Science & Business Intelligence Analyst, Also focusing on
+**AI agent development and workflow automation** .
 
 I build tools that don't just call an API once — they reason through a
 task in steps, check their own output, and handle real-world messiness.
