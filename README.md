@@ -1,4 +1,4 @@
-# Welcome to MuhammadNasir_World of Coding Analytics
+# Welcome to Muhammad Nasir World of Coding Analytics
 <div align="center">
 <img src="https://media.giphy.com/media/oW4csEbiMzVjq/giphy.gif" align="center" style="width: 100%" />
 </div>  
